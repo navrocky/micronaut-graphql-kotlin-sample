@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: hello.world
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, gradle, graphql, http-client, junit, kotlin, kotlin-application, logback, nats, netty-server, readme, shade, yaml]
